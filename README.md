@@ -8,8 +8,7 @@ vector competency**
 
 ## Authors
 
-Khandaker Asif Ahmed*, Melissa J. Klein, Leon Court, Rahul V. Rane,  
-Tom K. Walsh, Stacey E. Lynch, Prasad N. Paradkar,  
+Khandaker Asif Ahmed*, Melissa J. Klein, Leon Court, Rahul V. Rane, Tom K. Walsh, Stacey E. Lynch, Prasad N. Paradkar,  
 Debbie Eagles, Gunjan Pandey
 
 \*Corresponding author: khandakerasif.ahmed@csiro.au
