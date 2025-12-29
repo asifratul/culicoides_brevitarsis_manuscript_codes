@@ -6,6 +6,9 @@ analyses reported in the manuscript:
 **Chromosome-scale genome of *Culicoides brevitarsis* highlights genetic basis of
 vector competency**
 
+![Genome assembly statistics and gene family evolution](Brevitarsis_genome.png)
+
+
 ## Authors
 
 Khandaker Asif Ahmed*, Melissa J. Klein, Leon Court, Rahul V. Rane, Tom K. Walsh, Stacey E. Lynch, Prasad N. Paradkar,  
