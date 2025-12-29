@@ -1,0 +1,22 @@
+annotation_name_prefix: GCA_040583785.1
+annotation_provider: Asif_Ahmed
+genome: /datasets/work/aahl-ahsv/work/EGAPx/culicoides_sonorensis/GCA_040583785.1_c_stellifer_primary030_purged_genomic.fna.gz
+locus_tag_prefix: CulStel
+reads:
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171964/ERR2171964_1.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171964/ERR2171964_2.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171966/ERR2171966_1.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171966/ERR2171966_2.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171968/ERR2171968_1.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171968/ERR2171968_2.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171970/ERR2171970_1.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171970/ERR2171970_2.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171972/ERR2171972_1.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171972/ERR2171972_2.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171974/ERR2171974_1.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171974/ERR2171974_2.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171976/ERR2171976_1.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171976/ERR2171976_2.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171978/ERR2171978_1.fasta
+- /datasets/work/aahl-ahsv/work/EGAPx/AB_RNA_DL/ERR2171978/ERR2171978_2.fasta
+taxid: '1890934'
