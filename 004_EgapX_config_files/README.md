@@ -51,7 +51,7 @@ Genome annotation jobs were executed locally using the EGAPx pipeline via a
 SLURM-based HPC environment. An example submission command is shown below:
 
 ```bash
-sbatch -A OD-230654 egapx_annotation_pipeline/run_egapx_local.slurm \
+sbatch egapx_annotation_pipeline/run_egapx_local.slurm \
     sono.yaml \
     culicoides_sonorensis/annotation_output
 ```
@@ -62,6 +62,7 @@ sbatch -A OD-230654 egapx_annotation_pipeline/run_egapx_local.slurm \
   depending on the local computing environment.
 - Large input files (genome FASTA, RNA-seq reads) are not included in this
   repository.
+
 
 
 
