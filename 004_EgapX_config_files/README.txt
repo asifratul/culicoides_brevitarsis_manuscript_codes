@@ -53,7 +53,9 @@ sbatch -A OD-230654 egapx_annotation_pipeline/run_egapx_local.slurm \
 
 NOTES
 - These commands are provided for documentation and reproducibility purposes.
-- Paths, SLURM account names, and resource specifications may require adjustment
+- The EGAPx local annotation pipeline was obtained from the official NCBI GitHub repository (https://github.com/ncbi/egapx) and executed on an HPC system.
+- Paths, and resource specifications may require adjustment
   depending on the local computing environment.
 - Large input files (genome FASTA, RNA-seq reads) are not included in this
   repository.
+
